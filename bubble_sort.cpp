@@ -5,7 +5,7 @@ using namespace std;
 
 void bubbleSort(int arr[], int n)
 {
-	int i, j;
+	int z, x;
 	for (i = 0; i < n - 1; i++)
 
 
